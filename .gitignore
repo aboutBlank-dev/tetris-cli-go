@@ -1,0 +1,24 @@
+# Go binary
+/bin/
+/build/
+/dist/
+
+# Go workspace file
+*.vscode/
+
+# Dependency directories (remove if you use vendoring)
+/vendor/
+
+# Go test result files
+*.out
+*.test
+
+# IDE and editor folders
+.idea/
+.vscode/
+
+# User-specific files
+*.swp
+*~
+.DS_Store
+
